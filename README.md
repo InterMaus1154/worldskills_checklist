@@ -21,14 +21,14 @@ Some are applicable for practice only, some for competition only, some are for b
         <code>http://localhost:80</code>
     </li>
     <li>
-        Can I access my database? (phpmyadmin)
+        Can I access my database? (phpmyadmin)<br>
+        <code>http://localhost/phpmyadmin</code>
     </li>
     <li>
         Can I connect to the database? (Laravel)</br>
         in CMD: <code>php artisan tinker </code>
         </code> </br>
-        <code>DB::connection()->getPdo();
-        </code></br>
+        <code>DB::connection()->getPdo();</code></br>
         On error, check credentials in <code>.env</code>
     </li>
     <li>
