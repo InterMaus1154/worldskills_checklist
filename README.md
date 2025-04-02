@@ -1,6 +1,6 @@
 # WorldSkills Checklist
 
-Some are applicable for practice only, some for competition only, some for are both.
+Some are applicable for practice only, some for competition only, some are for both.
 
 ## Editor
 
